@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
+title: Ashley Yeah
+email: ashelyeah@gmail.com
 url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Aspiring Software Developer, Student-Athlete at the University of Illinois, Urbana-Champaign."
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+skills: "Aspiring Software Developer - Thinker/Tinkerer - Student-Athlete"
+meta_author: Yeah Ashley
 
 # Google webmaster tools
 google_verify:
@@ -25,8 +25,8 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
+  primary: ffcc80 #18bc9c #80B3FF
+  primary-rgb: "255, 204, 128" #"24,288,156" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
@@ -34,7 +34,7 @@ color:
 footer:
   copyright: Dr. Henry Jekyll
   location: Location
-  social: Around the Web
+  social: Socials
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -52,8 +52,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Los Gatos, CA 95032
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
